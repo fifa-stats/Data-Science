@@ -1,0 +1,653 @@
+Name,League,ATTACK,MIDFIELD,DEFENCE,OVERALL
+FC Barcelona,LaLiga Santander,87,85,85,86
+Real Madrid,LaLiga Santander,83,88,84,86
+FC Bayern,Bundesliga,90,84,85,85
+Juventus,Serie A TIM,89,83,85,85
+Manchester City,Premier League,86,88,83,85
+Paris,Ligue 1 Conforama,88,85,82,84
+Atlético Madrid,LaLiga Santander,85,83,84,84
+Liverpool,Premier League,89,83,81,83
+Spurs,Premier League,87,82,83,83
+Chelsea,Premier League,85,83,82,83
+Inter,Serie A TIM,87,82,81,82
+Arsenal,Premier League,85,82,80,82
+Napoli,Serie A TIM,84,83,81,82
+Manchester Utd,Premier League,83,84,80,82
+Dortmund,Bundesliga,81,82,79,81
+FC Porto,Liga NOS,80,81,81,81
+Lazio,Serie A TIM,84,80,79,80
+Roma,Serie A TIM,82,80,82,80
+Sevilla FC,LaLiga Santander,81,82,78,80
+Valencia CF,LaLiga Santander,81,80,79,80
+Leverkusen,Bundesliga,80,80,78,80
+Real Betis,LaLiga Santander,79,80,80,80
+Milan,Serie A TIM,79,80,80,80
+M'gladbach,Bundesliga,81,78,78,79
+AS Monaco,Ligue 1 Conforama,81,78,76,79
+Villarreal CF,LaLiga Santander,80,79,78,79
+Athletic Club,LaLiga Santander,80,79,78,79
+RB Leipzig,Bundesliga,80,79,77,79
+West Ham,Premier League,80,78,77,79
+OL,Ligue 1 Conforama,79,80,78,79
+SL Benfica,Liga NOS,79,79,80,79
+Everton,Premier League,79,79,79,79
+Frankfurt,Bundesliga,81,77,77,78
+OM,Ligue 1 Conforama,79,80,75,78
+Sporting CP,Liga NOS,79,78,77,78
+Ajax,Eredivisie,77,80,78,78
+TSG Hoffenheim,Bundesliga,77,78,79,78
+Leicester City,Premier League,77,77,79,78
+Schalke,Bundesliga,75,78,79,78
+Torino,Serie A TIM,81,76,76,77
+SD Eibar,LaLiga Santander,79,77,77,77
+Real Sociedad,LaLiga Santander,79,77,76,77
+RC Celta,LaLiga Santander,79,77,74,77
+Beşiktaş,Süper Lig,79,76,76,77
+Girona FC,LaLiga Santander,79,75,76,77
+Lokomotiv Moscow,Rest of World,78,78,76,77
+Getafe CF,LaLiga Santander,78,75,77,77
+Watford,Premier League,77,78,77,77
+VfL Wolfsburg,Bundesliga,77,78,77,77
+Crystal Palace,Premier League,77,78,76,77
+RCD Espanyol,LaLiga Santander,77,77,75,77
+Hertha BSC,Bundesliga,77,75,77,77
+Werder Bremen,Bundesliga,76,78,76,77
+Burnley,Premier League,76,76,76,77
+Bournemouth,Premier League,75,76,77,77
+Atalanta,Serie A TIM,80,75,76,76
+PSV,Eredivisie,80,75,75,76
+Sampdoria,Serie A TIM,79,77,75,76
+Fiorentina,Serie A TIM,78,76,75,76
+Başakşehir,Süper Lig,78,76,75,76
+Levante UD,LaLiga Santander,78,76,75,76
+Fenerbahçe,Süper Lig,78,74,74,76
+SC Braga,Liga NOS,77,76,77,76
+D. Alavés,LaLiga Santander,77,76,76,76
+River Plate,SAF,77,76,75,76
+Buenos Aires,SAF,77,75,76,76
+Köln,Bundesliga 2,77,75,75,76
+Galatasaray,Süper Lig,76,77,74,76
+Brighton,Premier League,76,76,77,76
+Fulham,Premier League,76,76,72,76
+Newcastle Utd,Premier League,76,74,76,76
+Wolves,Premier League,75,79,76,76
+Shakhtar Donetsk,Rest of World,75,77,75,76
+VfB Stuttgart,Bundesliga,75,77,74,76
+Southampton,Premier League,75,77,73,76
+ASSE,Ligue 1 Conforama,75,76,75,76
+Tigres,LIGA Bancomer MX,78,76,71,75
+Racing Club,SAF,78,75,75,75
+Feyenoord,Eredivisie,77,76,72,75
+Stade Rennais,Ligue 1 Conforama,76,76,74,75
+LOSC Lille,Ligue 1 Conforama,76,76,73,75
+Spartak Moscow,Rest of World,76,76,72,75
+Club Brugge,Pro League,76,75,75,75
+Cagliari,Serie A TIM,76,74,74,75
+Udinese,Serie A TIM,76,74,74,75
+Dynamo Kyiv,Rest of World,75,76,73,75
+Bologna,Serie A TIM,75,75,76,75
+Montpellier HSC,Ligue 1 Conforama,75,75,75,75
+Independiente,SAF,75,75,74,75
+Monterrey,LIGA Bancomer MX,75,74,74,75
+1. FSV Mainz 05,Bundesliga,74,75,75,75
+FC Nantes,Ligue 1 Conforama,74,75,73,75
+CD Leganés,LaLiga Santander,74,74,73,75
+Grêmio,Liga do Brasil,74,73,74,75
+Hannover 96,Bundesliga,73,75,73,75
+Olympiacos CFP,Rest of World,73,75,73,75
+Huddersfield,Premier League,73,74,75,75
+OGC Nice,Ligue 1 Conforama,72,75,76,75
+PAOK,Rest of World,71,76,75,75
+Al Hilal,Saudi Professional League,80,73,71,74
+Atlético Mineiro,Liga do Brasil,76,75,74,74
+Rayo Vallecano,LaLiga Santander,76,74,73,74
+Sassuolo,Serie A TIM,76,74,72,74
+FC Augsburg,Bundesliga,75,75,74,74
+Girondins de Bx,Ligue 1 Conforama,75,74,74,74
+SC Freiburg,Bundesliga,75,74,73,74
+SPAL,Serie A TIM,75,74,72,74
+KRC Genk,Pro League,74,76,73,74
+Genoa,Serie A TIM,74,74,73,74
+West Brom,EFL Championship,74,73,75,74
+R. Valladolid CF,LaLiga Santander,74,73,72,74
+América,LIGA Bancomer MX,74,72,72,74
+Internacional,Liga do Brasil,73,74,74,74
+RC Strasbourg,Ligue 1 Conforama,73,72,74,74
+V. Guimarães,Liga NOS,72,74,74,74
+Celtic,Scottish Prem,71,74,74,74
+Toulouse FC,Ligue 1 Conforama,75,73,73,73
+EA Guingamp,Ligue 1 Conforama,74,74,73,73
+RC Deportivo,LaLiga 1 I 2 I 3,74,74,71,73
+Angers SCO,Ligue 1 Conforama,74,73,74,73
+AEK Athens,Rest of World,74,73,73,73
+RSC Anderlecht,Pro League,74,73,72,73
+Parma,Serie A TIM,74,73,70,73
+Rangers,Scottish Prem,74,72,72,73
+FC Basel,RSL,74,71,74,73
+Cardiff City,Premier League,73,74,74,73
+Aston Villa,EFL Championship,73,74,70,73
+Amiens SC,Ligue 1 Conforama,73,73,73,73
+Málaga CF,LaLiga 1 I 2 I 3,73,73,72,73
+Stoke City,EFL Championship,73,73,71,73
+Cruzeiro,Liga do Brasil,73,72,75,73
+Stade de Reims,Ligue 1 Conforama,73,72,74,73
+RB Salzburg,Ö. Bundesliga,72,76,73,73
+Standard Liège,Pro League,72,74,72,73
+Düsseldorf,Bundesliga,72,73,72,73
+Chievo Verona,Serie A TIM,72,73,72,73
+Hamburg,Bundesliga 2,72,72,72,73
+CSKA Moscow,Rest of World,71,75,72,73
+Fluminense,Liga do Brasil,71,74,72,73
+Al Ahli,Saudi Professional League,77,73,67,72
+Junior,Liga Dimayor,75,71,69,72
+Pachuca,LIGA Bancomer MX,74,73,69,72
+SD Huesca,LaLiga Santander,74,72,72,72
+Empoli,Serie A TIM,74,72,72,72
+UD Las Palmas,LaLiga 1 I 2 I 3,74,71,72,72
+Nott'm Forest,EFL Championship,74,70,71,72
+Alanyaspor,Süper Lig,73,73,71,72
+SM Caen,Ligue 1 Conforama,73,73,71,72
+1. FC Nürnberg,Bundesliga,73,72,72,72
+Toluca,LIGA Bancomer MX,73,72,71,72
+Cruz Azul,LIGA Bancomer MX,73,72,71,72
+Norwich,EFL Championship,73,72,71,72
+Botafogo,Liga do Brasil,73,72,71,72
+Frosinone,Serie A TIM,73,70,72,72
+AZ,Eredivisie,72,73,72,72
+Middlesbrough,EFL Championship,72,73,72,72
+Slavia Praha,Rest of World,72,72,73,72
+Leeds United,EFL Championship,72,72,73,72
+Royal Antwerp FC,Pro League,72,72,72,72
+Dijon FCO,Ligue 1 Conforama,72,72,71,72
+Santos Laguna,LIGA Bancomer MX,72,72,71,72
+Dinamo Zagreb,Rest of World,72,72,71,72
+Colón,SAF,72,72,68,72
+Defensa,SAF,72,70,71,72
+Al Nassr,Saudi Professional League,71,74,70,72
+KAA Gent,Pro League,71,73,73,72
+Göztepe,Süper Lig,71,72,71,72
+R. Sporting,LaLiga 1 I 2 I 3,71,71,72,72
+Viktoria Plzeň,Rest of World,70,72,72,72
+San Lorenzo,SAF,70,72,72,72
+Vitesse,Eredivisie,70,72,69,72
+LA Galaxy,MLS,78,72,67,71
+Atlanta United,MLS,78,71,70,71
+Lanús,SAF,76,69,71,71
+Al Ittihad,Saudi Professional League,74,74,66,71
+Konyaspor,Süper Lig,74,72,71,71
+Trabzonspor,Süper Lig,74,72,69,71
+Tijuana,LIGA Bancomer MX,74,71,70,71
+BSC Young Boys,RSL,74,70,70,71
+Huracán,SAF,73,71,71,71
+Minnesota United,MLS,73,71,71,71
+Santos,Liga do Brasil,73,71,71,71
+NY Red Bulls,MLS,73,71,71,71
+CD Feirense,Liga NOS,73,71,70,71
+Panathinaikos,Rest of World,73,71,70,71
+Rio Ave FC,Liga NOS,72,73,70,71
+Vitória,Liga do Brasil,72,72,72,71
+R. Oviedo,LaLiga 1 I 2 I 3,72,72,71,71
+Kayserispor,Süper Lig,72,72,71,71
+Vélez Sarsfield,SAF,72,72,69,71
+Kasimpaşa,Süper Lig,72,71,71,71
+Sivasspor,Süper Lig,72,71,71,71
+Palermo,Calcio B,72,71,71,71
+Çaykur Rizespor,Süper Lig,72,71,70,71
+Boavista FC,Liga NOS,72,71,70,71
+Atl. Nacional,Liga Dimayor,72,70,69,71
+Hellas Verona,Calcio B,72,69,69,71
+CD Viñazur,Camp. Scotiabank,71,73,71,71
+Nîmes Olympique,Ligue 1 Conforama,71,72,72,71
+América,Liga do Brasil,71,72,71,71
+Rosario Central,SAF,71,72,71,71
+Sheffield Utd,EFL Championship,71,72,71,71
+FC København,Superliga,71,72,71,71
+CA Osasuna,LaLiga 1 I 2 I 3,71,72,70,71
+Union Berlin,Bundesliga 2,71,71,72,71
+Benevento,Calcio B,71,71,71,71
+GD Chaves,Liga NOS,71,71,71,71
+Sporting KC,MLS,71,71,70,71
+Granada CF,LaLiga 1 I 2 I 3,71,71,69,71
+Guadalajara,LIGA Bancomer MX,71,71,69,71
+Sheffield Wed,EFL Championship,71,71,69,71
+Bursaspor,Süper Lig,71,71,69,71
+FC Metz,Domino’s Ligue 2,71,70,71,71
+Derby County,EFL Championship,70,72,70,71
+Bahia,Liga do Brasil,70,71,71,71
+Marítimo,Liga NOS,70,70,71,71
+FC Midtjylland,Superliga,70,70,71,71
+Sp. Charleroi,Pro League,70,69,71,71
+Swansea City,EFL Championship,70,69,70,71
+FC Utrecht,Eredivisie,69,72,71,71
+Chapecoense,Liga do Brasil,69,71,71,71
+Guangzhou,CSL,68,75,68,71
+León,LIGA Bancomer MX,68,72,71,71
+Sparta Praha,Rest of World,68,72,71,71
+Uni. Católica,Camp. Scotiabank,67,72,69,71
+MKE Ankaragücü,Süper Lig,67,69,71,71
+D.C. United,MLS,80,71,68,70
+Legia Warszawa,Ekstraklasa,75,70,69,70
+Kawasaki-F,Meiji Yasuda J1,75,70,68,70
+St. Pauli,Bundesliga 2,74,71,68,70
+Bochum,Bundesliga 2,73,71,69,70
+Bristol City,EFL Championship,73,70,70,70
+Puebla,LIGA Bancomer MX,73,70,67,70
+Brentford,EFL Championship,73,69,70,70
+U.N.A.M.,LIGA Bancomer MX,73,69,67,70
+Querétaro,LIGA Bancomer MX,73,67,69,70
+LAFC,MLS,72,73,69,70
+Ingolstadt,Bundesliga 2,72,71,68,70
+Birmingham City,EFL Championship,72,70,70,70
+Seattle Sounders,MLS,71,72,69,70
+Impact Montréal,MLS,71,72,68,70
+Portimonense SC,Liga NOS,71,72,68,70
+Preston,EFL Championship,71,71,69,70
+Zulte-Waregem,Pro League,71,71,66,70
+Sint-Truiden,Pro League,71,70,69,70
+Malmö FF,Allsvenskan,71,70,69,70
+Funchal,Liga NOS,71,69,70,70
+Perugia,Calcio B,71,69,67,70
+Urawa Reds,Meiji Yasuda J1,71,67,70,70
+Columbus Crew SC,MLS,70,73,69,70
+Moreirense FC,Liga NOS,70,72,71,70
+Talleres,SAF,70,72,64,70
+Sport,Liga do Brasil,70,71,71,70
+Akhisarspor,Süper Lig,70,71,70,70
+Cádiz CF,LaLiga 1 I 2 I 3,70,71,69,70
+Albacete BP,LaLiga 1 I 2 I 3,70,71,69,70
+QPR,EFL Championship,70,70,70,70
+Yeni Malatyaspor,Süper Lig,70,70,69,70
+Ind. Santa Fe,Liga Dimayor,70,70,69,70
+Uni. de Chile,Camp. Scotiabank,70,69,72,70
+Estudiantes,SAF,70,69,70,70
+Rosenborg BK,Eliteserien,70,69,70,70
+R. Zaragoza,LaLiga 1 I 2 I 3,70,69,70,70
+Reading,EFL Championship,70,68,71,70
+Atlético Tucumán,SAF,69,71,69,70
+Tigre,SAF,69,71,68,70
+Hull City,EFL Championship,69,71,68,70
+CD Tenerife,LaLiga 1 I 2 I 3,69,71,68,70
+V. Setúbal,Liga NOS,69,70,71,70
+Atl. Paranaense,Liga do Brasil,69,70,70,70
+Darmstadt,Bundesliga 2,69,70,69,70
+Portland Timbers,MLS,68,73,69,70
+Paraná,Liga do Brasil,68,71,70,70
+KV Oostende,Pro League,68,69,70,70
+Atlas,LIGA Bancomer MX,66,72,68,70
+Vissel Kobe,Meiji Yasuda J1,74,70,66,69
+Al Shabab,Saudi Professional League,72,70,67,69
+SK Rapid Wien,Ö. Bundesliga,72,69,68,69
+Godoy Cruz,SAF,72,66,69,69
+Real Salt Lake,MLS,71,71,67,69
+Argentinos Jrs.,SAF,71,70,68,69
+Colorado Rapids,MLS,71,70,68,69
+SJ Earthquakes,MLS,71,69,69,69
+Brescia,Calcio B,71,69,68,69
+Antalyaspor,Süper Lig,71,68,70,69
+Shanghai SIPG,CSL,70,72,67,69
+New England,MLS,70,70,68,69
+Wigan Athletic,EFL Championship,70,69,69,69
+Bielefeld,Bundesliga 2,70,69,69,69
+Millonarios,Liga Dimayor,70,69,68,69
+Salerno,Calcio B,70,69,67,69
+FC Groningen,Eredivisie,70,69,67,69
+Stade Brestois,Domino’s Ligue 2,70,68,69,69
+KV Kortrijk,Pro League,70,68,68,69
+Aldosivi,SAF,70,67,68,69
+Kaizer Chiefs,Rest of World,70,67,65,69
+New York City FC,MLS,69,72,69,69
+Toronto FC,MLS,69,70,70,69
+CD Lugo,LaLiga 1 I 2 I 3,69,70,70,69
+Houston Dynamo,MLS,69,70,68,69
+SC Heerenveen,Eredivisie,69,70,65,69
+AD Alcorcón,LaLiga 1 I 2 I 3,69,69,70,69
+Sandhausen,Bundesliga 2,69,69,69,69
+Santa Clara,Liga NOS,69,69,69,69
+Heidenheim,Bundesliga 2,69,69,68,69
+Crotone,Calcio B,69,69,68,69
+Ulsan Hyundai,K-League 1,69,69,68,69
+CD Tondela,Liga NOS,69,68,68,69
+Newell's,SAF,69,68,66,69
+Cremona,Calcio B,69,67,70,69
+Philadelphia,MLS,68,73,67,69
+FC Dallas,MLS,68,72,68,69
+CD Numancia,LaLiga 1 I 2 I 3,68,71,69,69
+ADO Den Haag,Eredivisie,68,70,70,69
+Millwall,EFL Championship,68,70,69,69
+Os Belenenses,Liga NOS,68,69,69,69
+Monarcas Morelia,LIGA Bancomer MX,68,69,69,69
+Desportivo Aves,Liga NOS,68,69,69,69
+Blackburn Rovers,EFL Championship,68,69,69,69
+Duisburg,Bundesliga 2,68,69,68,69
+Cercle Brugge,Pro League,68,69,67,69
+Gimnasia,SAF,68,68,69,69
+Deportes Tolima,Liga Dimayor,68,68,67,69
+Chicago Fire,MLS,67,71,68,69
+Unión,SAF,66,70,70,69
+Kiel,Bundesliga 2,66,69,69,69
+Jeonbuk Hyundai,K-League 1,66,68,67,69
+Deportivo Cali,Liga Dimayor,65,67,67,69
+Banfield,SAF,62,68,68,69
+Beijing Guoan,CSL,78,69,64,68
+Indep. Medellín,Liga Dimayor,73,68,68,68
+Lech Poznań,Ekstraklasa,72,69,67,68
+KAS Eupen,Pro League,71,69,66,68
+Jagiellonia,Ekstraklasa,71,68,68,68
+Kashima Antlers,Meiji Yasuda J1,71,67,67,68
+AIK,Allsvenskan,70,69,67,68
+Sunderland,EFL League One,70,69,67,68
+RCD Mallorca,LaLiga 1 I 2 I 3,70,69,66,68
+AJ Auxerre,Domino’s Ligue 2,70,69,66,68
+Once Caldas,Liga Dimayor,70,68,69,68
+Veracruz,LIGA Bancomer MX,70,68,66,68
+Cosenza,Calcio B,70,68,65,68
+AC Ajaccio,Domino’s Ligue 2,70,67,68,68
+Necaxa,LIGA Bancomer MX,70,66,67,68
+Al Wehda,Saudi Professional League,69,71,63,68
+Orlando City,MLS,69,70,68,68
+FC Sion,RSL,69,70,64,68
+Brøndby IF,Superliga,69,69,68,68
+Willem II,Eredivisie,69,69,67,68
+FC Lorient,Domino’s Ligue 2,69,69,67,68
+Paderborn,Bundesliga 2,69,68,68,68
+Pescara,Calcio B,69,68,68,68
+PEC Zwolle,Eredivisie,69,68,67,68
+Ascoli,Calcio B,69,68,67,68
+Extremadura UD,LaLiga 1 I 2 I 3,69,68,67,68
+Lechia Gdańsk,Ekstraklasa,69,68,66,68
+ESTAC Troyes,Domino’s Ligue 2,69,67,68,68
+BB Erzurumspor,Süper Lig,69,67,67,68
+Foggia,Calcio B,69,67,65,68
+Padova,Calcio B,69,66,69,68
+Orlando Pirates,Rest of World,68,70,66,68
+Suwon Samsung,K-League 1,68,69,68,68
+Molde FK,Eliteserien,68,69,68,68
+Heracles Almelo,Eredivisie,68,69,65,68
+Bolton,EFL Championship,68,68,69,68
+Dresden,Bundesliga 2,68,68,68,68
+Lobos,LIGA Bancomer MX,68,68,67,68
+Fortuna Sittard,Eredivisie,68,68,67,68
+Rionegro Águilas,Liga Dimayor,68,66,69,68
+Fürth,Bundesliga 2,68,66,69,68
+Sport. Lokeren,Pro League,67,69,69,68
+FK Austria Wien,Ö. Bundesliga,67,69,68,68
+Aberdeen,Scottish Prem,67,69,67,68
+Belgrano,SAF,67,69,65,68
+Cittadella,Calcio B,67,68,68,68
+Nàstic,LaLiga 1 I 2 I 3,67,68,68,68
+UD Almería,LaLiga 1 I 2 I 3,67,68,66,68
+Lecce,Calcio B,67,67,69,68
+Regensburg,Bundesliga 2,67,67,68,68
+Magdeburg,Bundesliga 2,67,67,67,68
+RC Lens,Domino’s Ligue 2,67,67,67,68
+Ipswich,EFL Championship,67,66,68,68
+Elche CF,LaLiga 1 I 2 I 3,66,69,68,68
+Venezia,Calcio B,66,69,68,68
+Aue,Bundesliga 2,66,68,67,68
+Patronato,SAF,65,68,66,68
+Ceará SC,Liga do Brasil,64,69,69,68
+Grasshopper Club,RSL,64,69,62,68
+Shandong Luneng,CSL,76,66,67,67
+Sagan Tosu,Meiji Yasuda J1,74,67,64,67
+Jiangsu Suning,CSL,73,63,68,67
+Gamba Osaka,Meiji Yasuda J1,71,67,66,67
+Kilmarnock,Scottish Prem,70,68,66,67
+S-Hiroshima,Meiji Yasuda J1,70,67,65,67
+La Equidad,Liga Dimayor,70,67,65,67
+Shanghai Shenhua,CSL,70,67,62,67
+Perth Glory,Hyundai A-League,70,66,66,67
+Nagoya Grampus,Meiji Yasuda J1,70,64,65,67
+Excel Mouscron,Pro League,69,68,66,67
+F.C. Tokyo,Meiji Yasuda J1,69,67,67,67
+Hearts,Scottish Prem,69,66,67,67
+Sydney FC,Hyundai A-League,68,70,66,67
+Melb. Victory,Hyundai A-League,68,70,65,67
+Uni. Concepción,Camp. Scotiabank,68,69,66,67
+Clermont Foot,Domino’s Ligue 2,68,68,67,67
+IFK Norrköping,Allsvenskan,68,68,65,67
+KFC Uerdingen,3. Liga,68,67,67,67
+Waasl. Beveren,Pro League,68,67,66,67
+Whitecaps FC,MLS,68,67,66,67
+Hibernian,Scottish Prem,68,67,66,67
+Al Faisaly,Saudi Professional League,68,67,65,67
+BK Häcken,Allsvenskan,68,67,65,67
+Ettifaq FC,Saudi Professional League,68,67,64,67
+CD Antofagasta,Camp. Scotiabank,68,66,67,67
+Valenciennes FC,Domino’s Ligue 2,68,66,67,67
+LASK Linz,Ö. Bundesliga,68,66,67,67
+Luton Town,EFL League One,68,66,66,67
+NAC Breda,Eredivisie,68,66,66,67
+SM Tucumán,SAF,68,66,65,67
+Hammarby IF,Allsvenskan,68,66,65,67
+Charlton Ath,EFL League One,68,65,67,67
+Al Taawoun,Saudi Professional League,67,70,62,67
+SK Brann,Eliteserien,67,68,68,67
+Cerezo Osaka,Meiji Yasuda J1,67,68,67,67
+Rotherham Utd,EFL Championship,67,68,67,67
+VVV-Venlo,Eredivisie,67,68,66,67
+La Spezia,Calcio B,67,67,68,67
+CF Rayo,LaLiga 1 I 2 I 3,67,67,68,67
+SK Sturm Graz,Ö. Bundesliga,67,67,68,67
+Carpi,Calcio B,67,67,66,67
+Córdoba CF,LaLiga 1 I 2 I 3,67,67,66,67
+Jeju United,K-League 1,67,67,66,67
+Nancy,Domino’s Ligue 2,67,65,68,67
+Odense BK,Superliga,67,65,66,67
+Havre AC,Domino’s Ligue 2,66,68,68,67
+Livorno,Calcio B,66,68,66,67
+Excelsior,Eredivisie,66,67,67,67
+Pogoń Szczecin,Ekstraklasa,66,67,63,67
+San Martín,SAF,66,66,66,67
+Unión La Calera,Camp. Scotiabank,66,64,69,67
+Atl. Bucaramanga,Liga Dimayor,65,69,62,67
+Al Qadisiyah,Saudi Professional League,64,68,66,67
+FC Zürich,RSL,64,68,64,67
+FC Seoul,K-League 1,64,67,65,67
+Tianjin Quanjian,CSL,74,61,63,66
+Guangzhou R&F,CSL,73,65,64,66
+Aalborg BK,Superliga,70,65,67,66
+Shimizu S-Pulse,Meiji Yasuda J1,70,65,64,66
+Gangwon FC,K-League 1,70,63,65,66
+Melbourne City,Hyundai A-League,69,65,66,66
+FC Lugano,RSL,69,64,64,66
+Śląsk Wrocław,Ekstraklasa,69,63,66,66
+Djurgårdens IF,Allsvenskan,68,65,68,66
+Portsmouth,EFL League One,68,65,66,66
+Peterborough,EFL League One,68,65,65,66
+Júbilo Iwata,Meiji Yasuda J1,68,63,64,66
+CD Palestino,Camp. Scotiabank,67,67,64,66
+Hebei CFFC,CSL,67,67,63,66
+De Graafschap,Eredivisie,67,65,66,66
+Deportivo Pasto,Liga Dimayor,67,65,65,66
+Motherwell,Scottish Prem,67,63,64,66
+Paris FC,Domino’s Ligue 2,66,67,66,66
+Yokohama F･M,Meiji Yasuda J1,66,67,66,66
+Grenoble Foot,Domino’s Ligue 2,66,67,66,66
+Al Fayha,Saudi Professional League,66,67,64,66
+FC Emmen,Eredivisie,66,66,66,66
+FCSM,Domino’s Ligue 2,66,66,66,66
+Pohang Steelers,K-League 1,66,66,65,66
+Oxford United,EFL League One,66,66,64,66
+Karlsruher SC,3. Liga,66,65,68,66
+Al. Petrolera,Liga Dimayor,66,65,67,66
+SV Wehen,3. Liga,66,65,67,66
+Depor. Iquique,Camp. Scotiabank,66,65,66,66
+FC Luzern,RSL,66,65,64,66
+Barnsley,EFL League One,66,63,67,66
+Jeonnam Dragons,K-League 1,65,68,65,66
+Östersunds FK,Allsvenskan,65,67,64,66
+Al Raed,Saudi Professional League,64,66,64,66
+Scunthorpe Utd,EFL League One,63,66,65,66
+América de Cali,Liga Dimayor,62,65,65,66
+Brisbane Roar,Hyundai A-League,54,67,62,66
+Chamois FC,Domino’s Ligue 2,70,64,64,65
+Kashiwa Reysol,Meiji Yasuda J1,69,64,62,65
+WS Wanderers,Hyundai A-League,68,65,61,65
+Unión Española,Camp. Scotiabank,68,63,61,65
+Well. Phoenix,Hyundai A-League,67,66,64,65
+St. Johnstone,Scottish Prem,67,66,64,65
+Górnik Zabrze,Ekstraklasa,67,66,63,65
+Curicó Unido,Camp. Scotiabank,67,66,62,65
+VfL Osnabrück,3. Liga,67,65,65,65
+La Berrichonne,Domino’s Ligue 2,67,65,64,65
+Wisła Płock,Ekstraklasa,67,65,62,65
+MK Dons,EFL League Two,67,64,65,65
+FC St. Gallen,RSL,67,64,64,65
+FC Nordsjælland,Superliga,66,67,65,65
+Red Star FC,Domino’s Ligue 2,66,66,65,65
+Doncaster,EFL League One,66,66,65,65
+Braunschweig,3. Liga,66,66,64,65
+IF Elfsborg,Allsvenskan,66,66,64,65
+Vålerenga Fotball,Eliteserien,66,66,63,65
+H.Consa.Sapporo,Meiji Yasuda J1,66,65,65,65
+Wolfsberger AC,Ö. Bundesliga,66,65,65,65
+Miedź Legnica,Ekstraklasa,66,65,64,65
+Unterhaching,3. Liga,66,65,64,65
+Adelaide United,Hyundai A-League,66,65,63,65
+Incheon United,K-League 1,66,62,65,65
+Piast Gliwice,Ekstraklasa,65,66,66,65
+Aarhus GF,Superliga,65,66,65,65
+US Orléans,Domino’s Ligue 2,65,65,65,65
+Mansfield Town,EFL League Two,65,65,65,65
+Kaiserslautern,3. Liga,65,65,64,65
+Admira Wacker,Ö. Bundesliga,65,64,65,65
+Zagłębie Lubin,Ekstraklasa,65,64,64,65
+SCR Altach,Ö. Bundesliga,65,63,66,65
+Gyeongnam FC,K-League 1,65,63,63,65
+Gazélec Ajaccio,Domino’s Ligue 2,64,66,66,65
+Sarpsborg 08 FF,Eliteserien,64,66,65,65
+Shrewsbury,EFL League One,64,66,65,65
+Cracovia,Ekstraklasa,64,66,64,65
+Hallescher FC,3. Liga,64,66,64,65
+Lincoln City,EFL League Two,64,65,66,65
+Würzburg,3. Liga,64,65,65,65
+Southend United,EFL League One,64,65,64,65
+Plymouth Argyle,EFL League One,64,65,64,65
+Hansa Rostock,3. Liga,64,64,65,65
+Al Batin,Saudi Professional League,64,64,64,65
+Al Fateh,Saudi Professional League,64,64,64,65
+Arka Gdynia,Ekstraklasa,64,64,64,65
+Bradford City,EFL League One,64,64,64,65
+Fleetwood Town,EFL League One,63,67,64,65
+VfR Aalen,3. Liga,63,66,64,65
+Al Hazem,Saudi Professional League,63,66,63,65
+CD O'Higgins,Camp. Scotiabank,63,65,67,65
+Randers FC,Superliga,63,65,65,65
+Odds BK,Eliteserien,63,64,66,65
+AS Béziers,Domino’s Ligue 2,61,65,64,65
+Wisła Kraków,Ekstraklasa,61,64,65,65
+Patriotas,Liga Dimayor,59,65,64,65
+Dalian Yifang,CSL,71,66,60,64
+FC Thun,RSL,70,66,60,64
+Dundalk,SSE Airtricity Lge,69,65,64,64
+Beijing Renhe,CSL,69,65,61,64
+Burton Albion,EFL League One,69,64,65,64
+Henan Jianye,CSL,68,64,61,64
+SV Meppen,3. Liga,67,65,64,64
+Innsbruck,Ö. Bundesliga,67,65,63,64
+Rochdale,EFL League One,67,65,63,64
+SønderjyskE,Superliga,67,63,62,64
+Dundee FC,Scottish Prem,67,62,64,64
+Newcastle Jets,Hyundai A-League,66,66,64,64
+Vegalta Sendai,Meiji Yasuda J1,66,63,64,64
+Guizhou Hengfeng,CSL,66,60,64,64
+Daegu FC,K-League 1,66,60,63,64
+Coventry City,EFL League One,65,65,64,64
+GIF Sundsvall,Allsvenskan,65,65,64,64
+Gillingham,EFL League One,65,65,63,64
+Korona Kielce,Ekstraklasa,65,64,64,64
+Fortuna Köln,3. Liga,65,64,64,64
+Energie Cottbus,3. Liga,65,64,63,64
+Neuchâtel Xamax,RSL,65,64,61,64
+S. Großaspach,3. Liga,65,63,64,64
+Blackpool,EFL League One,65,63,63,64
+Strømsgodset IF,Eliteserien,64,65,65,64
+Vejle Boldklub,Superliga,64,65,63,64
+Wycombe,EFL League One,64,64,65,64
+Kristiansund,Eliteserien,64,64,64,64
+Ohod Club,Saudi Professional League,64,64,64,64
+Colchester,EFL League Two,64,64,64,64
+SV Mattersburg,Ö. Bundesliga,64,64,63,64
+SKN St. Pölten,Ö. Bundesliga,64,63,65,64
+Jaguares,Liga Dimayor,64,63,64,64
+Vendsyssel FF,Superliga,64,63,64,64
+Livingston,Scottish Prem,64,63,64,64
+Esbjerg fB,Superliga,64,63,63,64
+Shonan Bellmare,Meiji Yasuda J1,64,62,63,64
+Preußen Münster,3. Liga,63,65,64,64
+Walsall,EFL League One,63,65,63,64
+Sportfreunde Lotte,3. Liga,63,64,64,64
+FSV Zwickau,3. Liga,62,65,66,64
+AC Horsens,Superliga,62,65,63,64
+Envigado,Liga Dimayor,62,65,61,64
+Kalmar FF,Allsvenskan,61,64,64,64
+Deportes Temuco,Camp. Scotiabank,60,64,63,64
+Audax Italiano,Camp. Scotiabank,57,65,66,64
+CD Huachipato,Camp. Scotiabank,55,65,65,64
+Chongqing SWM,CSL,68,64,58,63
+Hobro IK,Superliga,67,64,63,63
+Stabæk Fotball,Eliteserien,65,63,63,63
+Carl Zeiss Jena,3. Liga,65,63,62,63
+Lillestrøm SK,Eliteserien,65,63,62,63
+Bury,EFL League Two,64,64,63,63
+1860 München,3. Liga,64,64,62,63
+Exeter City,EFL League Two,64,63,63,63
+Z. Sosnowiec,Ekstraklasa,64,63,62,63
+Changchun Yatai,CSL,64,61,64,63
+Northampton,EFL League Two,64,60,63,63
+IK Sirius,Allsvenskan,63,64,62,63
+Notts County,EFL League Two,63,64,61,63
+Accrington,EFL League One,63,63,63,63
+Sandefjord,Eliteserien,63,63,63,63
+Forest Green,EFL League Two,63,63,63,63
+AFC Wimbledon,EFL League One,63,63,62,63
+Atlético Huila,Liga Dimayor,63,63,59,63
+Central Coast,Hyundai A-League,62,66,60,63
+Örebro SK,Allsvenskan,62,64,63,63
+Tromsø IL,Eliteserien,62,63,65,63
+IFK Göteborg,Allsvenskan,62,63,62,63
+Oldham Athletic,EFL League Two,62,62,60,63
+Bristol Rovers,EFL League One,61,64,64,63
+Sangju Sangmu,K-League 1,61,63,61,63
+Everton de Viña,Camp. Scotiabank,66,58,65,62
+TSV Hartberg,Ö. Bundesliga,64,63,62,62
+Cheltenham Town,EFL League Two,64,62,62,62
+Port Vale,EFL League Two,64,61,62,62
+Crawley Town,EFL League Two,64,61,61,62
+San Luis,Camp. Scotiabank,63,65,61,62
+FK Bodø/Glimt,Eliteserien,63,63,63,62
+Swindon Town,EFL League Two,63,63,61,62
+IK Start,Eliteserien,63,62,62,62
+Grimsby Town,EFL League Two,63,62,62,62
+Ranheim Fotball,Eliteserien,63,61,62,62
+Tianjin TEDA,CSL,63,61,62,62
+St. Mirren,Scottish Prem,63,61,62,62
+V-Varen Nagasaki,Meiji Yasuda J1,63,60,64,62
+Tranmere Rovers,EFL League Two,62,63,60,62
+Boyacá Chicó,Liga Dimayor,62,62,63,62
+Yeovil Town,EFL League Two,62,61,62,62
+Newport County,EFL League Two,62,61,61,62
+Hamilton,Scottish Prem,61,61,63,62
+Carlisle United,EFL League Two,58,61,64,62
+FK Haugesund,Eliteserien,56,63,63,62
+Cork City,SSE Airtricity Lge,65,62,61,61
+Cambridge Utd,EFL League Two,62,62,59,61
+CF Reus,LaLiga 1 I 2 I 3,62,61,61,61
+Stevenage,EFL League Two,61,62,61,61
+Trelleborgs FF,Allsvenskan,61,61,61,61
+Shamrock Rovers,SSE Airtricity Lge,61,61,61,61
+Macclesfield,EFL League Two,60,60,60,61
+Crewe Alexandra,EFL League Two,61,60,60,60
+Leones,Liga Dimayor,61,59,60,60
+Brommapojkarna,Allsvenskan,60,61,60,60
+St. Pats,SSE Airtricity Lge,60,60,61,60
+Dalkurd FF,Allsvenskan,60,60,58,60
+HJK Helsinki,Rest of World,59,61,60,60
+Morecambe,EFL League Two,58,59,58,60
+Waterford FC,SSE Airtricity Lge,59,59,59,58
+Bohemian FC,SSE Airtricity Lge,56,58,56,57
+Sligo Rovers,SSE Airtricity Lge,56,57,58,57
+Derry City,SSE Airtricity Lge,56,55,58,57
+Limerick FC,SSE Airtricity Lge,57,55,55,55
+Bray Wanderers,SSE Airtricity Lge,53,56,54,54
+Free Agents,Free Agents,0,0,0,0
